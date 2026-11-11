@@ -1,0 +1,4 @@
+channel,signups,onboarded,activated,onboarding_pct,activation_after_onboarding_pct,signup_to_activation_pct
+referral,800,685,487,85.6,71.1,60.9
+organic,800,602,367,75.3,61.0,45.9
+paid_search,800,542,250,67.8,46.1,31.3
